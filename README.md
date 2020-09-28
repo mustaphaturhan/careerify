@@ -6,7 +6,7 @@ Ben yeni kurulmuş bir startup’ım ve bütçem; diğer kariyer sitelerini kar�
 
 İşte bu sorunu çözmek için yola çıkıyoruz. Yapacağımız bu proje sayesinde herkesi kariyer sayfasına kavuşturacağız.
 
-Kullanacağımız Teknolojiler?
+### Kullanacağımız Teknolojiler?
 
 - **Figma** ([https://www.figma.com/](https://www.figma.com/))
 - **Next / React** ([https://nextjs.org/](https://nextjs.org/))
@@ -17,7 +17,7 @@ Kullanacağımız Teknolojiler?
 
 _not: ince font ile yazdığım teknolojileri kullanmayı ben de bilmiyorum, beraber öğreneceğiz._
 
-MVP kapsamında neler yapabiliriz?
+### MVP kapsamında neler yapabiliriz?
 
 - **İş ilanlarını görmek**
   - Kullanıcılar, ana sayfada açılan tüm ilanları görebilmeliler.
